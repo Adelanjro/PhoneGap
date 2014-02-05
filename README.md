@@ -1,4 +1,4 @@
 PhoneGap
 ========
 
-Pruebas para creacion de APP mediant Build PhoneGap
+Pruebas para creacion de APPs mediant Build PhoneGap
