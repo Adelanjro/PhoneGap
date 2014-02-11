@@ -1,0 +1,54 @@
+
+body{
+	background-color:#000000;
+}
+
+.container{
+	padding:20px;
+	border: 1px solid; 
+	border-color:#ffffff;
+	display:inline-block;
+	position:center;
+
+}
+
+.marco_login{
+	margin:10px;
+	padding:10px;
+	border:1px solid;
+	border-radius:10px;
+	border-color:#ffffff;
+	display: inline-block;
+	position:center;
+
+}
+
+.form_element{
+	position:center;
+	display:block;
+}
+
+.form_label{
+
+	color:#ffffff;
+	text-align:center;
+	
+}
+
+.form_element .form_text{
+	
+}
+
+
+.form_text:focus{
+	background-color:#dddddd;
+
+}
+
+.form_txt .form_psw{
+	background-color:#FFFFFF;
+}
+
+.form_element .form_button{
+	
+}
