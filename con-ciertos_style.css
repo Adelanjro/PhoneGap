@@ -6,21 +6,22 @@ body{
 .playground{
 	width:100%;
 	height:100%;
+	display: inline-block;
 }
 
 .container{
 	
-	margin-top:20%;
-	margin-bottom:20%;
-	height:60%;
-	margin-left:20%;
-	margin-right:20%;
-	width:60%;
-	padding:20px;
+	margin-top:5px;
+	margin-bottom:5px;
+	height:90%;
+	margin-left:5px;
+	margin-right:5px;
+	width:90%;
+	padding:2%;
 	border: 1px solid; 
 	border-color:#ffffff;
 	display:inline-block;
-	position:center;
+	
 
 }
 
@@ -29,9 +30,11 @@ body{
 	height:33%;
 	/*margin-top:33%;
 	margin-bottom:33%;*/
-	width:33%;
-	margin-left:33%;
-	margin-right:33%;
+	width:80%;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:10%;
+	margin-right:10%;
 	padding:10px;
 	border:1px solid;
 	border-radius:10px;
@@ -41,26 +44,24 @@ body{
 
 }
 
-.form_element{
-	position:center;
-	margin-left:auto;
-	margin-right:auto;
-	display:block;
-}
+
 
 .form_label{
 
 	color:#ffffff;
 	text-align:center;
-	
+	margin-left:10%;
+	margin-right:10%;
+	display:block;
 }
 
-.form_element .form_text{
+.form_text{
 	
-	margin-left:20%;
-	margin-right:20%;		
-	width:60%;
-	max-width:200px;
+	margin-left:10%;
+	margin-right:10%;
+	width:80%;
+	display:block;
+	
 	
 }
 
@@ -71,9 +72,13 @@ body{
 }
 
 .form_txt .form_psw{
-	background-color:#FFFFFF;
+
 }
 
-.form_element .form_button{
+.form_button{
+
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
 	
 }
